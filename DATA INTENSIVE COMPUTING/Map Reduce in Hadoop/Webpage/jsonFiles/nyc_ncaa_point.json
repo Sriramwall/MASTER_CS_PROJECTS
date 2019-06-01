@@ -1,0 +1,84 @@
+{
+    "children": [
+        {
+            "word": "first",
+            "count": 11677
+        },
+        {
+            "word": "no.",
+            "count": 10462
+        },
+        {
+            "word": "score",
+            "count": 9917
+        },
+        {
+            "word": "second",
+            "count": 9559
+        },
+        {
+            "word": "game",
+            "count": 8790
+        },
+        {
+            "word": "lead",
+            "count": 7639
+        },
+        {
+            "word": "state",
+            "count": 7585
+        },
+        {
+            "word": "play",
+            "count": 7083
+        },
+        {
+            "word": "tournament",
+            "count": 6535
+        },
+        {
+            "word": "ncaa",
+            "count": 6497
+        },
+        {
+            "word": "seed",
+            "count": 5535
+        },
+        {
+            "word": "10",
+            "count": 5299
+        },
+        {
+            "word": "shot",
+            "count": 5183
+        },
+        {
+            "word": "final",
+            "count": 5140
+        },
+        {
+            "word": "team",
+            "count": 5098
+        },
+        {
+            "word": "two",
+            "count": 4975
+        },
+        {
+            "word": "16",
+            "count": 4832
+        },
+        {
+            "word": "coach",
+            "count": 4636
+        },
+        {
+            "word": "rebound",
+            "count": 4460
+        },
+        {
+            "word": "region",
+            "count": 4327
+        }
+    ]
+}

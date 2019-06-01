@@ -1,0 +1,12 @@
+name: shinyapp
+title: shinyapp
+username:
+account: sv8kishandh
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 774709
+bundleId: 1925700
+url: https://sv8kishandh.shinyapps.io/shinyapp/
+when: 1552065427.88314
+asMultiple: FALSE
+asStatic: FALSE

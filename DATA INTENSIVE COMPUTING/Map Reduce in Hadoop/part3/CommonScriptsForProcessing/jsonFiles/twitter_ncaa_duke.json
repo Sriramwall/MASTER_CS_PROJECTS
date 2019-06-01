@@ -1,0 +1,84 @@
+{
+    "children": [
+        {
+            "word": "ncaa",
+            "count": 1332
+        },
+        {
+            "word": "michigan",
+            "count": 479
+        },
+        {
+            "word": "state",
+            "count": 434
+        },
+        {
+            "word": "tournament",
+            "count": 270
+        },
+        {
+            "word": "final",
+            "count": 243
+        },
+        {
+            "word": "win",
+            "count": 208
+        },
+        {
+            "word": "game",
+            "count": 207
+        },
+        {
+            "word": "elit",
+            "count": 177
+        },
+        {
+            "word": "zion",
+            "count": 149
+        },
+        {
+            "word": "vs",
+            "count": 147
+        },
+        {
+            "word": "marchmad",
+            "count": 145
+        },
+        {
+            "word": "vs.",
+            "count": 142
+        },
+        {
+            "word": "basketbal",
+            "count": 142
+        },
+        {
+            "word": "tech",
+            "count": 135
+        },
+        {
+            "word": "virginia",
+            "count": 127
+        },
+        {
+            "word": "team",
+            "count": 125
+        },
+        {
+            "word": "four",
+            "count": 118
+        },
+        {
+            "word": "kentucki",
+            "count": 104
+        },
+        {
+            "word": "live",
+            "count": 99
+        },
+        {
+            "word": "make",
+            "count": 96
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+{
+    "children": [
+        {
+            "word": "ncaa",
+            "count": 1079
+        },
+        {
+            "word": "tournament",
+            "count": 287
+        },
+        {
+            "word": "duke",
+            "count": 208
+        },
+        {
+            "word": "game",
+            "count": 203
+        },
+        {
+            "word": "team",
+            "count": 202
+        },
+        {
+            "word": "final",
+            "count": 195
+        },
+        {
+            "word": "basketbal",
+            "count": 123
+        },
+        {
+            "word": "auburn",
+            "count": 122
+        },
+        {
+            "word": "four",
+            "count": 120
+        },
+        {
+            "word": "first",
+            "count": 107
+        },
+        {
+            "word": "titl",
+            "count": 104
+        },
+        {
+            "word": "one",
+            "count": 102
+        },
+        {
+            "word": "state",
+            "count": 101
+        },
+        {
+            "word": "coach",
+            "count": 99
+        },
+        {
+            "word": "nation",
+            "count": 96
+        },
+        {
+            "word": "championship",
+            "count": 95
+        },
+        {
+            "word": "elit",
+            "count": 93
+        },
+        {
+            "word": "go",
+            "count": 90
+        },
+        {
+            "word": "texa",
+            "count": 89
+        },
+        {
+            "word": "kentucki",
+            "count": 89
+        }
+    ]
+}
